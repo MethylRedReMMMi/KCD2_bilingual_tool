@@ -3,5 +3,5 @@
 
 MOD添加了物品，书本的双语文本，并且调整了其他双语字幕的格式。
 2代的翻译有的时候不是特别的好，例如Scapular with saint被翻译为肩衣，恶一，恶二，恶三骰子英文分别是Lu die, Ci die, Fer die，对应了Lucifer。本MOD意在让玩家感受原版文字的风味，纯纯自用。
-灵感来自@Hemalurgic的视频 https://www.bilibili.com/video/BV1uGNWeDE9L/?share_source=copy_web&vd_source=c10eb43a9840bde095d682f205ad1584
+灵感来自@Hemalurgic的视频 https://www.bilibili.com/video/BV1uGNWeDE9L
 感谢0Altire的KCD PAK Builder:https://www.nexusmods.com/kingdomcomedeliverance2/mods/78
